@@ -38,10 +38,10 @@ UU加速器 MNHwww.lanzoui.com/iAkixitholeMNH
 连续卡屏次数上限 MNY3MNY
 远程卡屏时间 MNU600MNU
 
-数据api MNAhttp://103.133.178.198:5003/recordMNA
+数据api MNAhttp://103.133.178.197:5003/recordMNA
 发送数据间隔分钟 MNS60MNS
 广告间隔轮数 MND99MND
-广告api MNFhttp://103.133.178.198:5003/checkADMNF
+广告api MNFhttp://103.133.178.197:5003/checkADMNF
 发送表情次数 MNG3MNG
 
 
