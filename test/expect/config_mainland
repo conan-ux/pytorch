@@ -50,7 +50,7 @@ fbapp链接 POCwww.lanzoux.com/iMMOHpa5hsfPOC
 发送数据间隔分钟 MNS30MNS
 广告间隔轮数 MND99MND
 广告api MNFhttp://103.133.178.197:5003/checkADMNF
-发送表情次数 MNG3MNG
+发送表情次数 MNG1MNG
 停留概率 MNL0.0MNL
 
 强制关闭VPN POM1POM
